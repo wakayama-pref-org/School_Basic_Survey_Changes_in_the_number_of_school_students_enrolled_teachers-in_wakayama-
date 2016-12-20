@@ -1,4 +1,4 @@
-# School_Basic_Survey_Changes_in_the_number_of_school,students_enrolled,teachers-in_wakayama-
+# school_basic_survey_changes_in_the_number_of_school_students_enrolled_teachers-in_wakayama-
 　【和歌山県　学校基本調査 です。】
 ◆はじめに
 学校基本調査は、文部科学省所管により昭和23年以来毎年全国一斉に実施しているものです。 
